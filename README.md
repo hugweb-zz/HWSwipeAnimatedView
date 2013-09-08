@@ -3,7 +3,7 @@ HWSwipeAnimatedView
 
 HWSwipeAnimatedView implements the Mailbox gestural table view cell style but with a simple view
 
-<p align="center"><img src="https://github.com/hugweb/HWSwipeAnimatedView/blob/master/example/HWSwipeAnimatedView/Assets/example.gif"/></p>
+<p align="center"><img src="https://github.com/hugweb/HWSwipeAnimatedView/blob/master/example/HWSwipeAnimatedView/Assets/example.gif?raw=true"/></p>
 
 ##Usage
 
